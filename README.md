@@ -4,9 +4,9 @@
 
 This repository contains my responses for the Principal Data Analyst technical test for Ramsay Health Care. 
 
-## How to view the response
+## How to view my responses to the questions
 
-Open `main_responses.ipynb`
+Open `main_responses.ipynb`.
 
 ## Structure
 
