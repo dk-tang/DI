@@ -13,5 +13,4 @@ Open `main_responses.ipynb`.
 `main_responses.ipynb` is the base Jupyter notebook with all my responses and calls on the following folders:
 
 - `data/`: Contains the raw input dataset.
-- `doc/`: Any related documentation.
 - `src/`: Contains the additional python scripts.
